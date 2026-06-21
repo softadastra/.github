@@ -1,6 +1,6 @@
 # Softadastra: The C++ Tooling Company
 
-We are building a modern C++ toolchain to make C++ developers more productive than ever before. Learn more at https://softadastra.com/
+We build and maintain open C++ tooling to make modern C++ development simpler, faster, and more accessible. Learn more at https://softadastra.com/
 
 ## Our Projects
 
